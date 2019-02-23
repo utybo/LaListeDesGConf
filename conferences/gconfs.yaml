@@ -1,0 +1,210 @@
+title: "List of GConfs conferences"
+author: "Zoroark"
+made-with: "Atom text editor"
+best-pokémon: "Zoroark"
+second-best-pokémon: "Lucario"
+version: "0.0"
+updated: 2019-02-23
+
+
+conferences:
+  # Note for maintainers: always put the most recent event at the top.
+  # Order each conference in the exact order they happened in at the event.
+
+  ### 1000 subscribers conference ###
+
+  - title: Rétrospective GConfs
+    by:
+      - Kevin "Chewie" Sztern
+      - Meven "mevouc" Courouble
+      - Quentin "sunbro" Barbarat
+    type: fun
+    event: 1000sbs
+    date: 2019-02-21
+    link: "https://youtu.be/i0F6FEQJAmQ?t=750"
+
+  - title: Modern Art: A Deep Learning Approach
+    by:
+      - Guillaume "Vermeille" Sanchez
+    type: tech
+    event: 1000sbs
+    date: 2019-02-21
+    link: "https://youtu.be/i0F6FEQJAmQ?t=3490"
+
+  - title: Modern Art: A Deep Learning Approach
+    by:
+      - Guillaume "Vermeille" Sanchez
+    type: tech
+    event: 1000sbs
+    date: 2019-02-21
+    link: "https://youtu.be/i0F6FEQJAmQ?t=3490"
+
+  - title: "Deep Learning and Security"
+    by:
+      - Guillaume "Vermeille" Sanchez
+    type: tech
+    event: 1000sbs
+    date: 2019-02-21
+    link: "https://youtu.be/i0F6FEQJAmQ?t=7114"
+    notes: "Audio broken at the beginning"
+
+  - title: Top 5 EPITA videos
+    by:
+      - Sarah Onfray
+      - Yohann Degli Esposti
+    type: fun
+    event: "1000sbs"
+    date: 2019-02-21
+    link: "https://youtu.be/i0F6FEQJAmQ?t=11096"
+
+  - title: PHP: Le meilleur langage du monde
+    by:
+      - Mehdi "Arcanite" Oueslati
+    type: troll
+    event: "1000sbs"
+    date: 2019-02-21
+    link: "https://youtu.be/i0F6FEQJAmQ?t=12740"
+
+  - title: Le fil rouge de ma vie
+    by:
+      - Kenan "LeBleu" Lejosne
+    type: troll
+    event: "1000sbs"
+    date: 2019-02-21
+    link: "https://youtu.be/i0F6FEQJAmQ?t=14793"
+
+  - title: Les produits dérivés GConfs
+    by:
+      - Quentin "sunbro" Barbarat
+    type: fun
+    event: "1000sbs"
+    date: 2019-02-21
+    link: "https://youtu.be/i0F6FEQJAmQ?t=16935"
+
+
+  ### BDSP 2019 ###
+
+  - title: Bien Démarrer son Projet: PROTIPS
+    by:
+      - Paul "eazhi" Khuat-Duy
+      - Quentin "sunbro" Barbarat
+    type: epita
+    event: "bdsp2019"
+    date: 2019-02-15
+    link: "https://youtu.be/IGBzpVvjjtc?t=230"
+
+  - title: Introduction à Git
+    by:
+      - ?
+    type: epita
+    event: "bdsp2019"
+    date: 2019-02-15
+    link: "https://youtu.be/IGBzpVvjjtc?t=2039"
+
+  - title: Tutoriel Unity
+    by:
+      - Clément "Defalur" Rebut
+    type: epita
+    event: "bdsp2019"
+    date: 2019-02-15
+    link: "https://youtu.be/IGBzpVvjjtc?t=3677"
+
+
+  ### BDE 2019 ###
+
+  - title: Présentation listes BDE Epita 2019
+    type: epita
+    date: 2019-01-30
+    link: "https://youtu.be/8AlWM-s0nuI?t=354"
+
+
+   ### Nuit de l'Info 2019
+
+  - title: sadm, infra système pour la finale Prologin
+    by:
+      - Victor "multun" Collod
+    type: tech
+    event: "ndi2018"
+    date: 2018-12-06
+    link: "https://www.youtube.com/watch?v=rzNrLJehw6A"
+
+  - title: Présentation du monde des CTF
+    by:
+      - Tanguy "Sideway" Dubroca
+    type: tech
+    event: "ndi2018"
+    date: 2018-12-06
+    link: "https://www.youtube.com/watch?v=2vADwc-Ceow"
+
+  - title: Comment arrêter de se servir de vim comme un goret
+    by:
+      - Kevin "Chewie" Sztern
+    type: tech
+    event: "ndi2018"
+    date: 2018-12-06
+    link: "https://youtu.be/D2B3YI_d6HA"
+
+  - title: Liste non-exhaustive de bugs dans la vraie vie
+    by:
+      - Kevin "Chewie" Sztern
+    type: tech
+    event: "ndi2018"
+    date: 2018-12-06
+    link: "https://youtu.be/NWfh_JaIh2A"
+
+  - title: Procedural Generation in C++ vs. Photoshop
+    by:
+      - Meven "mevouc" Courouble
+    type: tech
+    event: ndi2018
+    date: 2018-12-06
+    link: "https://www.youtube.com/watch?v=WCBP6OLIzgE"
+
+  - title: A tale of DNS
+    by:
+      - Yohann "shepard" Leon
+    type: tech
+    event: ndi2018
+    date: 2018-12-06
+    link: "https://youtu.be/sJx2h4EfVzk"
+
+  - title: Fooling around with a GPU
+    by:
+      - François "Hellzy" Mazeau
+    type: tech
+    event: ndi2018
+    date: 2018-12-06
+    link: "https://youtu.be/lHsV4xhS7Ps"
+
+  - title: How I Wrote a Debugger
+    by:
+      - Clément Magnard
+    type: tech
+    event: ndi2018
+    date: 2018-12-06
+    link: "https://youtu.be/wNRTHmaf418"
+
+  - title: Unreal Engine: Un environnement hostile
+    by:
+      - Kenan `LeBleu` Lejosne
+    type: tech
+    event: ndi2018
+    date: 2018-12-06
+    link: "https://youtu.be/YE5AWh7GTac"
+
+  - title: Introduction à la cryptographie
+    by:
+      - Gwendal `J4m3s` Landrein
+    type: tech
+    event: ndi2018
+    date: 2018-12-06
+    link: "https://youtu.be/hmbmhBkRLIo"
+
+  - title: stechec2, outil de matchmaking d'IA pour la finale Prologin
+    by:
+      - Thibault "haltode" Allançon
+    type: tech
+    event: ndi2018
+    date: 2018-12-06
+    link: "https://youtu.be/D2B3YI_d6HA"
+

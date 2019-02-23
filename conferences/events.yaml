@@ -1,0 +1,15 @@
+title: "List of GConfs events"
+author: "Zoroark"
+made-with: "Atom text editor"
+best-pokémon: "Zoroark"
+second-best-pokémon: "Lucario"
+version: "0.0"
+updated: 2019-02-23
+
+events:
+  - title: "Conférences 1000 abonnés"
+    id: "1000sbs"
+  - title: "Bien démarrer son projet 2019"
+    id: "bdsp2019"
+  - title: "Nuit de l'Info 2018"
+    id: "ndi2018"
