@@ -250,7 +250,7 @@ conferences:
   - title: "Developing a big project, one step at a time"
     by:
       - FIXME
-    type: school
+    type: epita
     event: 42sh2018
     date: 2018-11-06
     link: "https://youtu.be/9CZTWQZeyPc?t=8601"
@@ -275,7 +275,7 @@ conferences:
   - title: "Introduction à Linux"
     by:
       - multun
-    type: school
+    type: epita
     date: 2018-10-03
     link: "https://youtu.be/gSPsPjkVQnY?t=390"
     notes: "Pas de son au début, teinte rouge permanente sur l'écran"
