@@ -13,3 +13,5 @@ events:
     id: "bdsp2019"
   - title: "Nuit de l'Info 2018"
     id: "ndi2018"
+  - title: "Conférences 42sh 2018"
+    id: "42sh2018"

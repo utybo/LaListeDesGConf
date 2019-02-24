@@ -87,8 +87,8 @@ conferences:
 
   - title: Introduction à Git
     by:
-      - ?
-    type: epita
+      - "?"
+    type: dev
     event: "bdsp2019"
     date: 2019-02-15
     link: "https://youtu.be/IGBzpVvjjtc?t=2039"
@@ -96,7 +96,7 @@ conferences:
   - title: Tutoriel Unity
     by:
       - Clément "Defalur" Rebut
-    type: epita
+    type: dev
     event: "bdsp2019"
     date: 2019-02-15
     link: "https://youtu.be/IGBzpVvjjtc?t=3677"
@@ -106,6 +106,8 @@ conferences:
 
   - title: Présentation listes BDE Epita 2019
     type: epita
+    by:
+      - "BDE EPITA"
     date: 2019-01-30
     link: "https://youtu.be/8AlWM-s0nuI?t=354"
 
@@ -131,15 +133,15 @@ conferences:
   - title: Comment arrêter de se servir de vim comme un goret
     by:
       - Kevin "Chewie" Sztern
-    type: tech
+    type: dev
     event: "ndi2018"
     date: 2018-12-06
     link: "https://youtu.be/D2B3YI_d6HA"
 
   - title: Liste non-exhaustive de bugs dans la vraie vie
     by:
-      - Kevin "Chewie" Sztern
-    type: tech
+      - Arthur "kimicol" Remaud
+    type: fun
     event: "ndi2018"
     date: 2018-12-06
     link: "https://youtu.be/NWfh_JaIh2A"
@@ -179,7 +181,7 @@ conferences:
   - title: "Unreal Engine: Un environnement hostile"
     by:
       - Kenan `LeBleu` Lejosne
-    type: tech
+    type: fun
     event: ndi2018
     date: 2018-12-06
     link: "https://youtu.be/YE5AWh7GTac"
@@ -198,5 +200,82 @@ conferences:
     type: tech
     event: ndi2018
     date: 2018-12-06
-    link: "https://youtu.be/D2B3YI_d6HA"
+    link: "https://www.youtube.com/watch?v=R7RK8QJQ-RY"
 
+  ### C# Introduction (PROMO 2023) ###
+
+  - title: "Introduction au C#"
+    by:
+      - Antoine Allard
+      - Nicolas Manichon
+      - Tom Bricaud
+    type: dev
+    date: 2018-11-16
+    link: "https://youtu.be/ln50SB5Kvjg?t=302"
+
+  ### 42sh conferences 2018 (PROMO 2021) ###
+
+  - title: "Build Systems: CMake"
+    by:
+      - FIXME
+    type: dev
+    event: 42sh2018
+    date: 2018-11-05
+    link: "https://www.youtube.com/watch?v=kbetJvC3-Zw"
+
+  - title: "Build Systems: Autotools"
+    by:
+      - Gabriel Laskar
+    type: dev
+    event: 42sh2018
+    date: 2018-11-05
+    link: "https://youtu.be/kbetJvC3-Zw?t=1248"
+
+  - title: "Travailler en groupe: git"
+    by:
+      - Gabriel Laskar
+    type: dev
+    event: 42sh2018
+    date: 2018-11-06
+    link: "https://youtu.be/9CZTWQZeyPc?t=364"
+
+  - title: "Travailler en groupe: Unit tests and TDD"
+    by:
+      - FIXME
+    type: dev
+    event: 42sh2018
+    date: 2018-11-06
+    link: "https://youtu.be/9CZTWQZeyPc?t=3693"
+
+  - title: "Developing a big project, one step at a time"
+    by:
+      - FIXME
+    type: school
+    event: 42sh2018
+    date: 2018-11-06
+    link: "https://youtu.be/9CZTWQZeyPc?t=8601"
+
+  - title: "Ecrire sa test-suite: Python"
+    by:
+      - Paul Semel
+    type: dev
+    event: 42sh2018
+    date: 2018-11-07
+    link: "https://www.youtube.com/watch?v=tTSgQP4Fggc"
+
+  - title: "Ecrire sa test-suite: Ruby"
+    by:
+      - Martin Leydier
+    type: dev
+    event: 42sh2018
+    date: 2018-11-07
+    link: "https://youtu.be/tTSgQP4Fggc?t=2977"
+
+  ### Linux conferences (PROMO 2023) ###
+  - title: "Introduction à Linux"
+    by:
+      - multun
+    type: school
+    date: 2018-10-03
+    link: "https://youtu.be/gSPsPjkVQnY?t=390"
+    notes: "Pas de son au début, teinte rouge permanente sur l'écran"
