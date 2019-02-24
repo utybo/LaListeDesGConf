@@ -23,15 +23,7 @@ conferences:
     date: 2019-02-21
     link: "https://youtu.be/i0F6FEQJAmQ?t=750"
 
-  - title: Modern Art: A Deep Learning Approach
-    by:
-      - Guillaume "Vermeille" Sanchez
-    type: tech
-    event: 1000sbs
-    date: 2019-02-21
-    link: "https://youtu.be/i0F6FEQJAmQ?t=3490"
-
-  - title: Modern Art: A Deep Learning Approach
+  - title: "Modern Art: A Deep Learning Approach"
     by:
       - Guillaume "Vermeille" Sanchez
     type: tech
@@ -57,7 +49,7 @@ conferences:
     date: 2019-02-21
     link: "https://youtu.be/i0F6FEQJAmQ?t=11096"
 
-  - title: PHP: Le meilleur langage du monde
+  - title: "PHP: Le meilleur langage du monde"
     by:
       - Mehdi "Arcanite" Oueslati
     type: troll
@@ -84,7 +76,7 @@ conferences:
 
   ### BDSP 2019 ###
 
-  - title: Bien Démarrer son Projet: PROTIPS
+  - title: "Bien Démarrer son Projet: PROTIPS"
     by:
       - Paul "eazhi" Khuat-Duy
       - Quentin "sunbro" Barbarat
@@ -184,7 +176,7 @@ conferences:
     date: 2018-12-06
     link: "https://youtu.be/wNRTHmaf418"
 
-  - title: Unreal Engine: Un environnement hostile
+  - title: "Unreal Engine: Un environnement hostile"
     by:
       - Kenan `LeBleu` Lejosne
     type: tech
