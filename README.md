@@ -5,6 +5,4 @@ Site de GConfs: https://gconfs.fr
 
 Site trop bien: https://zoroark.guru
 
-Site où un jour il y aura une belle liste: https://zoroark.guru/gconfs
-
-
+Site où il y a une belle liste: https://zoroark.guru/gconfs
