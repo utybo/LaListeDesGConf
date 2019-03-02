@@ -55,6 +55,7 @@ conferences:
     type: troll
     event: "1000sbs"
     date: 2019-02-21
+    dlid: "php"
     link: "https://youtu.be/i0F6FEQJAmQ?t=12740"
 
   - title: Le fil rouge de ma vie
