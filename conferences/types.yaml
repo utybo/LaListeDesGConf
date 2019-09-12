@@ -1,9 +1,5 @@
 title: "Types of GConfs conferences"
 author: "Zoroark"
-made-with: "Atom text editor"
-best-pokémon: "Zoroark"
-second-best-pokémon: "Lucario"
-version: "0.0"
 updated: 2019-02-23
 
 kinds:
@@ -13,4 +9,4 @@ kinds:
   # When in doubt between tech and dev, choose tech. Dev should only use for
   # courses/lessons which actually teach you how to do stuff
   - "fun" # Fun conferences for shits and giggles
-  - "troll" # Pretty self-explanatory. i see u kenan
+  - "troll" # Pretty self-explanatory. Kenan-style.

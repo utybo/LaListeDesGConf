@@ -1,12 +1,10 @@
 title: "List of GConfs events"
 author: "Zoroark"
-made-with: "Atom text editor"
-best-pokémon: "Zoroark"
-second-best-pokémon: "Lucario"
-version: "0.0"
 updated: 2019-02-23
 
 events:
+  - title: LSE Week 2019
+    id: "lse2019"
   - title: "Conférences 1000 abonnés"
     id: "1000sbs"
   - title: "Bien démarrer son projet 2019"

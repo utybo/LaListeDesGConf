@@ -1,15 +1,108 @@
 title: "List of GConfs conferences"
 author: "Zoroark"
-made-with: "Atom text editor"
-best-pokémon: "Zoroark"
-second-best-pokémon: "Lucario"
-version: "0.0"
-updated: 2019-02-23
+updated: 2019-09-12
 
 
 conferences:
   # Note for maintainers: always put the most recent event at the top.
-  # Order each conference in the exact order they happened in at the event.
+  # Order each conference in the exact order they happened in at the event
+
+  # For example:
+  # - first conf from recent event
+  # - second conf from recent event
+  # - third conf from recent event
+  # - first conf from older event
+  # - second conf from older event
+  # ...
+
+  ### LSE Week 2019 ###
+
+  - title: Violating your package manager's privacy
+    by:
+      - Mathieu Nativel
+    type: tech
+    event: lse2019
+    date: 2019-07-06
+    link: "https://youtu.be/D4Ka71VZwNE?t=102"
+
+  - title: Secure Lazy Binding in x86_64
+    by:
+      - Thibault Vivies
+    type: tech
+    event: lse2019
+    date: 2019-02-06
+    link: "https://youtu.be/D4Ka71VZwNE?t=2170"
+
+  - title: Tree differencing for code copy detection
+    by:
+      - Nicolas Manichon
+    type: tech
+    event: lse2019
+    date: 2019-02-06
+    link: "https://youtu.be/D4Ka71VZwNE?t=5091"
+
+  - title: "Pyvmidbg, a {Flexible} Hypervisor-Level Debugger"
+    by:
+      - Mathieu Tarral
+    type: tech
+    event: lse2019
+    date: 2019-02-06
+    link: "https://youtu.be/L_N11vAxJ6Y?t=374"
+
+
+  - title: "Arabic fine-grained dialect identification"
+    by:
+      - Victor Guichard
+      - Gaël de Francony
+    type: tech
+    event: lse2019
+    date: 2019-02-06
+    link: "https://youtu.be/L_N11vAxJ6Y?t=3533"
+    notes: "Vidéo manquante au début"
+
+  - title: 
+      "Accelerate Boolean Constraint Propagation for Boolean Satisfiability Solvers with FPGA"
+    by:
+      - Maxence Caron-Lasne
+    type: tech
+    event: lse2019
+    date: 2019-02-07
+    link: "https://youtu.be/BNlHMcpMpGc?t=411"
+
+  - title: "slab/vmem: introduction to memory management"
+    by:
+      - Pierre Cornet
+    type: tech
+    event: lse2019
+    date: 2019-02-07
+    link: "https://youtu.be/BNlHMcpMpGc?t=3072"
+
+  - title: "Twenty years of OpenBSD"
+    by:
+      - Marc Espie
+    type: tech
+    event: lse2019
+    date: 2019-02-07
+    link: "https://youtu.be/BNlHMcpMpGc?t=5454"
+
+  - title: "Reverse engineering through execution trace analysis"
+    by:
+      - Gabriel Duque
+      - Tanguy Dubroca
+    type: tech
+    event: lse2019
+    date: 2019-02-07
+    link: "https://youtu.be/BNlHMcpMpGc?t=9202"
+
+  - title: "The return of pledge: rise of the patches"
+    by:
+      - Guillaume Pagnoux
+    type: tech
+    event: lse2019
+    date: 2019-02-07
+    link: "https://youtu.be/BNlHMcpMpGc?t=12025"
+
+  ### I'm not sure if the conférences internationalles are really needed here ###
 
   ### 1000 subscribers conference ###
 
